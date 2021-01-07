@@ -1,35 +1,33 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://discord.gg/H2BnuF7GfF">
+  <img align="left" alt="Fiskces's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://twitter.com/fiskce">
+  <img align="left" alt="Fiskce | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/fisk/">
+  <img align="left" alt="Fiskces's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+<a href="https://open.spotify.com/artist/4D0mWVvAxszC59xC2mVPQO?si=rn_wDg09QKmxbV5UfbPsrw">
+  <img align="left" alt="Fiskce On Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-<a href="https://www.reddit.com/user/geekyabhi/">
-  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
+<a href="https://www.reddit.com/user/fiskbaek/">
+  <img align="left" alt="Fiskce's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=fiskce.fiskce)
 
 <br />
 
-Hi, I'm [Abhishek Naidu!](https://blog.abhisheknaidu.tech/), a passionate self-taught Full Stack Web Developer 🚀 from India.
+Hi, I'm [Fiskce!](https://fiskce.live/), a passionate self-taught Full Stack Web Developer 🚀 from Fiskce.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Typescript; 
+- 👨🏽‍💻 I’m currently working on a Django Project. :wink:; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
-- 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
+- 📫 How to reach me: [@fiskce](https://twitter.com/fiskce);
 
 **Languages and Tools:**  
 
@@ -47,28 +45,21 @@ Hi, I'm [Abhishek Naidu!](https://blog.abhisheknaidu.tech/), a passionate self-t
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-C++          1 hr 57 mins    █████████████░░░░░░░░░░░░   52.58 % 
-JavaScript   1 hr            ██████▓░░░░░░░░░░░░░░░░░░   27.22 % 
-Markdown     44 mins         █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
+Djang        4 hr 57 mins    █████████████░░░░░░░░░░░░   52.58 % 
+JavaScript   2 hr            ██████▓░░░░░░░░░░░░░░░░░░   27.22 % 
+HTML         54 mins         █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
 ```
 <!--END_SECTION:waka-->
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.paypal.com/paypalme/mataris" target="_blank"><img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/124379590/original/1291bc62765313860bdeebe0868065a37f3dccd3/create-paypal-donation-button.png" alt="Donate width="150" ></a>
 
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  6,758 Karma Points           
-🌸  Completed 5 tasks today           
-✅  Completed 512 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
 
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fiskce&show_icons=true&theme=gotham" alt="Fiskce" />
 
 
 
