@@ -23,11 +23,11 @@ Hi, I'm [Fiskce!](https://fiskce.live/), a passionate semi-self-taught Full Stac
 
   <img align="right" alt="GIF" src="https://64.media.tumblr.com/0b59866d4f23e8ab39804c5a7968725a/f1bfad800d8ac6c6-2c/s1280x1920/46ea723ba1703102f52abc356bc55f8c33ed0e48.gif" width="500" height="320" />
   
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
-- 👨🏽‍💻 I’m currently working on a Django Project. :wink:; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@fiskce](https://twitter.com/fiskce);
+- 👨 I’m currently working on a Django Project 
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: [@fiskce](https://twitter.com/fiskce)
 
 **Languages and Tools:**  
 
