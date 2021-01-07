@@ -19,9 +19,9 @@
 
 <br />
 
-Hi, I'm [Fiskce!](https://fiskce.live/), a passionate self-taught Full Stack Web Developer 🚀 from Fiskce.
+Hi, I'm [Fiskce!](https://fiskce.live/), a passionate semi-self-taught Full Stack Web Developer 🚀 from Denmark.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://64.media.tumblr.com/0b59866d4f23e8ab39804c5a7968725a/f1bfad800d8ac6c6-2c/s1280x1920/46ea723ba1703102f52abc356bc55f8c33ed0e48.gif" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
