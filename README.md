@@ -51,10 +51,6 @@ HTML         54 mins         █████░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.paypal.com/paypalme/mataris" target="_blank"><img src="" alt="Donate width="150" ></a>
-
 
 
 📈 My GitHub Stats
