@@ -16,8 +16,6 @@
 <a href="https://github.com/fiskce/GatesOfSebastian"><img src="assets/code-sebastian.svg" width="32%" alt="Thunder Hunter Sebastian (JavaScript): a tumbling slot game on one canvas. On GitHub."></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/fiskce/fiskce/output/stats.svg" width="100%" alt="My GitHub in numbers: public repos, stars, followers and the languages I write most, counted every day.">
-
 <p align="center">
 <a href="https://fiskce.com"><img src="assets/link-site.svg" width="18%" alt="fiskce.com"></a>
 <a href="https://www.linkedin.com/in/fisk/"><img src="assets/link-linkedin.svg" width="18%" alt="LinkedIn"></a>
