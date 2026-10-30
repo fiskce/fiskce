@@ -1,0 +1,14 @@
+{
+  "name": "fiskce-profile",
+  "private": true,
+  "description": "The pictures for github.com/fiskce, drawn in the fiskce.com notebook style",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "stats": "node scripts/stats.mjs",
+    "stats:sample": "node scripts/stats.mjs --sample dist/stats.svg"
+  },
+  "devDependencies": {
+    "opentype.js": "^1.3.4"
+  }
+}
