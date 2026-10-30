@@ -32,14 +32,13 @@ local fiskce = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/fiskce/DayZ-Server-Manager-Linux"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fiskce&repo=DayZ-Server-Manager-Linux&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/fiskce/Arma3-Server-Mod-Manager-Linux"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fiskce&repo=Arma3-Server-Mod-Manager-Linux&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/fiskce/fanticheat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fiskce&repo=fanticheat&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/fiskce/fplates"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fiskce&repo=fplates&theme=tokyonight&hide_border=true" /></a>
-
-</div>
+| Project | What it does | |
+|---|---|---|
+| [**DayZ-Server-Manager-Linux**](https://github.com/fiskce/DayZ-Server-Manager-Linux) | Install, update, back up and auto-restart a DayZ server on Linux, with an optional web GUI | ![](https://img.shields.io/github/stars/fiskce/DayZ-Server-Manager-Linux?style=flat-square&color=36BCF7&label=%E2%98%85) ![](https://img.shields.io/github/languages/top/fiskce/DayZ-Server-Manager-Linux?style=flat-square&color=2c5364) |
+| [**Arma3-Server-Mod-Manager-Linux**](https://github.com/fiskce/Arma3-Server-Mod-Manager-Linux) | CLI mod manager for Arma 3 servers running on LinuxGSM | ![](https://img.shields.io/github/stars/fiskce/Arma3-Server-Mod-Manager-Linux?style=flat-square&color=36BCF7&label=%E2%98%85) ![](https://img.shields.io/github/languages/top/fiskce/Arma3-Server-Mod-Manager-Linux?style=flat-square&color=2c5364) |
+| [**fanticheat**](https://github.com/fiskce/fanticheat) | Anticheat for FiveM vRP/ESX servers | ![](https://img.shields.io/github/stars/fiskce/fanticheat?style=flat-square&color=36BCF7&label=%E2%98%85) ![](https://img.shields.io/github/languages/top/fiskce/fanticheat?style=flat-square&color=2c5364) |
+| [**fplates**](https://github.com/fiskce/fplates) | Standalone FiveM script for custom license plate textures | ![](https://img.shields.io/github/stars/fiskce/fplates?style=flat-square&color=36BCF7&label=%E2%98%85) ![](https://img.shields.io/github/languages/top/fiskce/fplates?style=flat-square&color=2c5364) |
+| [**fnpcs**](https://github.com/fiskce/fnpcs) | Standalone FiveM script for placing static NPCs | ![](https://img.shields.io/github/stars/fiskce/fnpcs?style=flat-square&color=36BCF7&label=%E2%98%85) ![](https://img.shields.io/github/languages/top/fiskce/fnpcs?style=flat-square&color=2c5364) |
 
 ---
 
@@ -57,30 +56,15 @@ local fiskce = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fiskce&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiskce&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
+
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
+
+<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" />
+<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" />
 
 <img src="https://streak-stats.demolab.com?user=fiskce&theme=tokyonight&hide_border=true" width="60%"/>
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=fiskce&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fiskce&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
