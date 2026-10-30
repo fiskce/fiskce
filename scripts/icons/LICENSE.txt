@@ -1,0 +1,16 @@
+fiskce icon pack
+Copyright (c) 2026 Mathias Fiskbæk (fiskce)
+
+These icons are licensed under the Creative Commons Attribution 4.0 International licence (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+The full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+
+You may copy, share and adapt them for any purpose, commercial too, as long as you give appropriate credit,
+link to the licence and say if you changed them. Credit them like this:
+
+  Icons by Mathias Fiskbæk (fiskce), https://fiskce.com/design-system/, CC BY 4.0
+
+The licence covers the drawings. It gives no rights to the fiskce name or logo as trademarks: don't use them in a
+way that suggests fiskce made, sponsors or endorses your work.
+
+Merger Moo's company logos are not part of this pack and are not covered by this licence.
